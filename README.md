@@ -27,18 +27,24 @@ pip install -r requirements.txt
   * From plot is clear that male and females which are smoker their charges are much higher as compared to non-smokers.
   * We have observed that the charges are increasing with age.
 * Applied various models on data and calculated metrics such as **R2 Score and RMSE" for various models.
-* Model used : Linear Regresion, Ridge Regression, SVR and Decision Tree Regressor.
-* Based on R2 Score and RMSE **Decision Tree Regressor** was perfoming best.
+* Model used : Linear Regresion, Ridge Regression, SVR and Random Forest Regressor.
+* Based on R2 Score and RMSE **Random Forest Regressor** was perfoming best.
 * Tuned its hyperparameters.
 * Deployed it using streamlit.
 
-#### 5) Created app.py file which was use in deploment.
+#### 5) ####  Model gave 89% accuracy for Medical Insurance Cost Prediction using <code>Random Forest Regressor</code>
 
-#### 6) Run the app.py as-->streamlit run app.py
+#### 6) Created app.py file which was use in deployment.
+
+#### 7) Run the app.py as-->streamlit run app.py
 ```
 streamlit run app.py
 ```
-#### 7) Streamlit app will open
-#### 8) Insert data to be predicted insurance cost for
+#### 8) Streamlit app will open
+#### 9) Insert data to be predicted insurance cost for
+
+## :file_folder: Dataset
+The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mirichoi0218/insurance)
+
 
 
