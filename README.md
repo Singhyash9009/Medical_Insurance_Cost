@@ -42,9 +42,9 @@ streamlit run app.py
 ```
 #### 8) Streamlit app will open
 <div align= "center">
-  <img src=(https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_2.jpg)><br>
+  <img src=(https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_2.png)><br>
 
-  <img src=(https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_1.jpg)>
+  <img src=(https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_1.png)>
 </div>
 
 #### 9) Insert data to be predicted insurance cost for
