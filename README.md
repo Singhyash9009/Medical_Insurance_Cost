@@ -41,11 +41,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 #### 8) Streamlit app will open
-<div >
-<img src=(https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_2.jpg)>
+<div align= "center">
+  <img src=(https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_2.jpg)><br>
 
-<img src=(https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_1.jpg)>
+  <img src=(https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_1.jpg)>
 </div>
+
 #### 9) Insert data to be predicted insurance cost for
 
 ## :file_folder: Dataset
