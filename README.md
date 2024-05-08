@@ -43,9 +43,10 @@ streamlit run app.py
 #### 8) Streamlit app will open
 ![Image_2](https://github.com/Singhyash9009/Medical_Insurance_Cost/assets/121798886/a99a01e9-fabc-4e90-ad35-9d243fd7f43e)
 
-
-
 #### 9) Insert data to be predicted insurance cost for
+![Image_1](https://github.com/Singhyash9009/Medical_Insurance_Cost/assets/121798886/0f089519-a29a-404d-a719-9e4be322d57e)
+
+
 
 ## :file_folder: Dataset
 The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mirichoi0218/insurance)
