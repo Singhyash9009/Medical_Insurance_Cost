@@ -2,7 +2,7 @@
 
 <div align= "center">
     <h3>Business Problem: To predict the approximate cost of medical insurance based on availabe information of patients</h3><br>
-    <img src= >
+    <img src=https://github.com/Singhyash9009/Medical_Insurance_Cost/blob/main/image_3.jpg >
 </div>
 
 #### 1) Create environement
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 * Tuned its hyperparameters.
 * Deployed it using streamlit.
 
-#### 5) ####  Model gave 89% accuracy for Medical Insurance Cost Prediction using <code>Random Forest Regressor</code>
+#### 5) Model gave 89% accuracy for Medical Insurance Cost Prediction using <code>Random Forest Regressor</code>
 
 #### 6) Created app.py file which was use in deployment.
 
